@@ -9,8 +9,8 @@
 ##################################################################################
 
 
-# This function does the following
-# Description
+# This function computes an Empirical Distribution function from a
+# given data vector and plots the result.
 
 
 
